@@ -190,8 +190,8 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  color: #fff;
-  background: #31a9e1;
+  color: black;
+  background: #FEE122;
 }
 
 .navbar .dropdown ul {
@@ -415,7 +415,9 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #0023D4;
+  color: #fff;
+  border: 2px solid #FEE122;
 }
 
 #hero .btn-watch-video {
